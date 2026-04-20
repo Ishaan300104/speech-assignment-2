@@ -1,0 +1,209 @@
+speech understanding
+acoustic phonetics
+digital signal processing
+sampling theorem
+Nyquist frequency
+quantization noise
+pre-emphasis filter
+windowing function
+short-time Fourier transform
+power spectral density
+mel frequency cepstral coefficients
+MFCC feature extraction
+mel filterbank
+cepstral analysis
+cepstrum
+homomorphic filtering
+liftering
+delta and delta-delta features
+linear prediction coding
+LPC analysis
+vocal tract model
+glottal excitation
+source filter model
+formant frequencies
+bandwidth estimation
+voiced unvoiced classification
+zero crossing rate
+energy contour
+pitch detection algorithm
+fundamental frequency estimation
+autocorrelation method
+AMDF algorithm
+Gaussian mixture model
+expectation maximization
+Hidden Markov Model
+Viterbi algorithm
+Baum-Welch algorithm
+forward backward algorithm
+emission probability
+transition probability
+initial state distribution
+acoustic model training
+pronunciation dictionary
+language model
+n-gram model
+bigram trigram
+perplexity metric
+smoothing techniques
+Kneser-Ney smoothing
+Witten-Bell smoothing
+good-turing estimation
+word error rate
+sentence error rate
+insertion deletion substitution
+beam search decoding
+Viterbi decoding
+connectionist temporal classification
+CTC loss
+attention mechanism
+encoder decoder architecture
+transformer model
+self-attention
+multi-head attention
+positional encoding
+feed-forward network
+layer normalization
+wav2vec 2.0
+self-supervised learning
+contrastive loss
+masked prediction
+fine-tuning pretrained model
+transfer learning
+speaker adaptation
+MLLR adaptation
+MAP adaptation
+VTLN vocal tract length normalization
+speaker normalization
+speaker independent recognition
+speaker dependent recognition
+code switching
+language identification
+multilingual speech recognition
+Hinglish transcription
+intrasentential switching
+intersentential switching
+phonological transfer
+prosody analysis
+intonation contour
+fundamental frequency contour
+speech rate
+rhythm metrics
+pairwise variability index
+voiced unvoiced ratio
+articulatory features
+place of articulation
+manner of articulation
+retroflex consonants
+aspirated stops
+nasal consonants
+fricatives
+affricates
+approximants
+diphthongs
+monophthongs
+syllable structure
+onset nucleus coda
+vowel formant F1 F2 F3
+formant tracking
+coarticulation effects
+spectral subtraction
+Wiener filter noise reduction
+minimum mean square error
+log MMSE estimator
+a priori SNR estimation
+speech enhancement
+noise floor estimation
+minimum statistics
+DeepFilterNet
+noise reduction deep learning
+text to speech synthesis
+concatenative synthesis
+parametric synthesis
+statistical parametric speech synthesis
+HMM-based TTS
+neural TTS
+WaveNet
+WaveGlow
+FastSpeech
+VITS variational inference
+GAN-based vocoder
+MelGAN HiFi-GAN
+prosody prediction
+duration model
+speaker embedding
+d-vector x-vector
+voice cloning
+zero-shot speaker adaptation
+cross-lingual voice cloning
+prosody warping
+dynamic time warping
+DTW alignment
+fundamental frequency warping
+energy normalization
+speaker similarity
+MOS mean opinion score
+mel-cepstral distortion
+PESQ STOI objective metrics
+anti-spoofing countermeasure
+bona fide speech
+spoofed speech
+replay attack
+text-to-speech attack
+voice conversion attack
+LFCC linear frequency cepstral coefficients
+MFCC-based spoofing detection
+constant-Q cepstral coefficients CQCC
+LCNN light convolutional neural network
+equal error rate EER
+minimum detection cost
+adversarial examples
+fast gradient sign method FGSM
+projected gradient descent PGD
+adversarial robustness
+perturbation budget epsilon
+signal to noise ratio SNR
+perceptual audio quality
+imperceptible perturbation
+lip-sync attack
+deepfake speech detection
+stochastic gradient descent
+Adam optimizer
+learning rate scheduling
+batch normalization
+dropout regularization
+residual connections
+recurrent neural network LSTM GRU
+bidirectional LSTM
+convolution neural network
+temporal convolution network
+attention-based sequence to sequence
+CTC attention hybrid
+beam search width
+language model shallow fusion
+second pass rescoring
+N-best list rescoring
+subword units BPE
+sentencepiece tokenization
+byte-pair encoding
+character-based model
+grapheme to phoneme G2P
+phoneme sequence
+IPA International Phonetic Alphabet
+unified IPA representation
+phonological rules
+allophonic variation
+stress and tone
+tonal language
+pitch accent
+mora timing
+syllable timing
+stress timing
+prosodic hierarchy
+utterance phrase word syllable
+ToBI annotation
+speech corpus annotation
+MUCS multilingual code-switching
+CommonVoice dataset
+VoxCeleb speaker verification
+LibriSpeech ASR benchmark
