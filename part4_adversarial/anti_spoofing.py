@@ -80,7 +80,7 @@ def extract_lfcc(waveform, sr=SAMPLE_RATE, n_lfcc=N_LFCC, n_linear=N_LINEAR):
     sr_int    = int(sr)
     n_fft     = 512
     hop_len   = int(FRAME_SH_MS * sr / 1000)
-    win_len   = int(FRAME_LEN_MS * sr / 1000)
+    win_len   = min(int(FRAME_LEN_MS * sr / 1000), n_fft)
 
     # STFT magnitude
     wt = torch.from_numpy(waveform).float()

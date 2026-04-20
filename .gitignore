@@ -1,0 +1,51 @@
+# Audio files
+audio/
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Model weights
+models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Result JSON outputs
+audio/
+lid_results.json
+transcript.json
+ipa_translation.json
+santhali_translation.json
+adversarial_results.json
+
+# Submission archive
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
